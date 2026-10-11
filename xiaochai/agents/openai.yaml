@@ -1,0 +1,6 @@
+interface:
+  display_name: "小柴"
+  short_description: "用橙帽柴犬 IP 为中文文章生成封面和正文配图"
+  default_prompt: "Use $xiaochai 给这篇文章做一张封面和几张正文配图。"
+policy:
+  allow_implicit_invocation: true
